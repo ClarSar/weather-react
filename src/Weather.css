@@ -9,36 +9,7 @@
   );
 }
 
-body {
-  font-family: sans-serif;
-}
 
-h1 {
-  color: #272142;
-  font-size: 30px;
-  font-weight: 100;
-  line-height: 28px;
-  margin-bottom: 0;
- 
-}
-
-ul {
-  margin: 0;
-  padding: 0;
-
-}
-
-li {
-  list-style: none;
-  color: #272142;
-  font-size: 16px;
-  font-weight: 100;
-  line-height: 19px;
-}
-
-li::first-letter {
-  text-transform: capitalize;
-}
 
 header {
   font-family: "Shadows Into Light", cursive;
@@ -47,6 +18,8 @@ header {
   text-align: right;
   color: #272142;
 }
+
+
 
 .Weather .overview {
   margin-bottom: 5px;
